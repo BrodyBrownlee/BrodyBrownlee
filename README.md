@@ -19,7 +19,7 @@ I'm a Software Engineering student at the University of Auckland. I enjoy buildi
 
 ## Past Projects
 
-### 🖼️ [Encroaching Darkness]() 
+### 🖼️ [Encroaching Darkness](https://github.com/ErgoNZ/PirateJam14) 
 ---
 Working within a team of three, The Encroaching Darkness was our entry into Pirate Jam 14, a two week long game jam. Using the Godot game engine with C#, I was responsible for programming and designing the audio for the game.  
 
