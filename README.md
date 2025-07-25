@@ -10,7 +10,7 @@ I'm a Software Engineering student at the University of Auckland. I enjoy buildi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" 
   alt="C" />
-  <img src="https://img.shields.io/badge/C%23-green?style=flat-square" 
+  <img src="https://img.shields.io/badge/C%23-green?style=for-the-badge" 
   alt="C#" />
   <img src="https://img.shields.io/badge/Java-%23d66258?style=flat-square"
   alt="Java" />
@@ -22,9 +22,9 @@ I'm a Software Engineering student at the University of Auckland. I enjoy buildi
 
 ## Past Projects
 
-### 🖼️ [Encroaching Darkness]()  
-Working within a team of three, The Encroaching Darkness was our entry into Pirate Jam 14, a two week long game jam. Using the Godot game engine with C#, I was responsible for programming and designing the audio for the game. 
+## 🖼️ [Encroaching Darkness]() ##
 ---
+Working within a team of three, The Encroaching Darkness was our entry into Pirate Jam 14, a two week long game jam. Using the Godot game engine with C#, I was responsible for programming and designing the audio for the game.  
 
 ### 🪪 [Soul ID — Web3 Hackathon 2025](https://github.com/se-camus/2025-web3-hackathon)  
 Built during NZ’s first Web3 hackathon. We took **1st place** and **$4000NZD** in the Fire Eyes Governance Challenge.  
