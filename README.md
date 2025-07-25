@@ -15,18 +15,18 @@ I'm a Software Engineering student at the University of Auckland. I enjoy buildi
   <img src="https://img.shields.io/badge/Java-%23d66258?style=for-the-badge"
   alt="Java" />
   <img src="https://img.shields.io/badge/HTML-%23e34922?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-
-
-
 </p>
 
 ## Past Projects
 
-## 🖼️ [Encroaching Darkness]() ##
+### 🖼️ [Encroaching Darkness]() 
 ---
 Working within a team of three, The Encroaching Darkness was our entry into Pirate Jam 14, a two week long game jam. Using the Godot game engine with C#, I was responsible for programming and designing the audio for the game.  
 
+---
+
 ### 🪪 [Soul ID — Web3 Hackathon 2025](https://github.com/se-camus/2025-web3-hackathon)  
+---
 Built during NZ’s first Web3 hackathon. We took **1st place** and **$4000NZD** in the Fire Eyes Governance Challenge.  
 Soulbound Token voting system with MetaMask integration, powered by smart contracts.  
 I integrated the front and backl end using Metamasks built in JavaScript integration, as well as assisting in front end and back end development.  
@@ -34,12 +34,12 @@ I integrated the front and backl end using Metamasks built in JavaScript integra
 ---
 
 ### 🎮 [COS301 Programming Project](https://github.com/BrodyBrownlee/301COS-Programming)  
-
+My final year college programming project where I designed a dungeon crawler engine inside of Unity’s game engine using C#, with an easily editible room layout and a self updating minimap to reflect the changes that you make. Additionally it required me to design the user interface and create unique room layouts to properly show the editible layout.
 
 ---
 
 ### 💻 [COS301 Website Project](https://github.com/BrodyBrownlee/301COS-Website)  
-
+My final year college web project, where I made an informative website around youth counselling and providing information to support and help youth understand themselves better. Additionally there was a section to create an appointment and book in a time, as well as an administrator page to view and edit these bookings. This was done with HTML, CSS, Javascript, php and SQL using phpMyAdmin. 
 
 ---
 
@@ -49,6 +49,7 @@ A downloadable PDF version of my CV.
 ---
 
 ## Interests
+I enjoy Game and Web development, Football, Editing, and Esports Commentating. 
 
 ---
 
