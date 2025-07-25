@@ -12,9 +12,9 @@ I'm a Software Engineering student at the University of Auckland. I enjoy buildi
   alt="C" />
   <img src="https://img.shields.io/badge/C%23-green?style=for-the-badge" 
   alt="C#" />
-  <img src="https://img.shields.io/badge/Java-%23d66258?style=flat-square"
+  <img src="https://img.shields.io/badge/Java-%23d66258?style=for-the-badge"
   alt="Java" />
-  <img src="https://img.shields.io/badge/HTML-%23e34922?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/HTML-%23e34922?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 
 
 
@@ -33,12 +33,12 @@ I integrated the front and backl end using Metamasks built in JavaScript integra
 
 ---
 
-### 🎮 [COS301 Programming Project]()  
+### 🎮 [COS301 Programming Project](https://github.com/BrodyBrownlee/301COS-Programming)  
 
 
 ---
 
-### 💻 [COS301 Website Project]()  
+### 💻 [COS301 Website Project](https://github.com/BrodyBrownlee/301COS-Website)  
 
 
 ---
