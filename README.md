@@ -33,8 +33,10 @@ I integrated the front and backl end using Metamasks built in JavaScript integra
 
 ---
 
-### 🎮 [COS301 Programming Project](https://github.com/BrodyBrownlee/301COS-Programming)  
-My final year college programming project where I designed a dungeon crawler engine inside of Unity’s game engine using C#, with an easily editible room layout and a self updating minimap to reflect the changes that you make. Additionally it required me to design the user interface and create unique room layouts to properly show the editible layout.
+### 🎮 [Dungeon Explorer](https://github.com/BrodyBrownlee/301COS-Programming)  
+A personal project learning how to use the Unity Game Engine. Using AI path finding to create a dungeon crawler style game. I implemented an easily 
+adjujstable tiled map system with a working minimap that updates based on your location and the current map layout.
+
 
 ---
 
