@@ -45,7 +45,7 @@ My final year college web project, where I made an informative website around yo
 
 ---
 
-### 📄 [CV]()  
+### 📄 [CV](https://github.com/BrodyBrownlee/BrodyBrownlee/blob/main/BrodyBrownleeResume.pdf)  
 A downloadable PDF version of my CV.
 
 ---
